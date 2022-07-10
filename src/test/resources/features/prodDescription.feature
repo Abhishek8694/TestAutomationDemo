@@ -2,7 +2,7 @@
 Feature: Amazon health check
   
   @tag1
-  Scenario: Product description for amazon  %$45
+  Scenario: Product description for amazon 
     Given I want to write a step with precondition
     And some other precondition
     When I complete action
@@ -11,7 +11,7 @@ Feature: Amazon health check
     Then I validate the outcomes
     And check more outcomes
 
-  @tag2 -----@123
+  @tag2 
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with <name>
     When I check for the <value> in step
