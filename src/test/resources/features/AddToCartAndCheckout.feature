@@ -31,7 +31,7 @@ Feature: Title of your feature
     And check more outcomes
     
       @tag2
-  Scenario: Display Checkout-s paghe
+  Scenario: Display Checkout paghe
     Given I want to write a step with precondition
     And some other precondition
     When I complete action
@@ -40,7 +40,7 @@ Feature: Title of your feature
     Then I validate the outcomes
     And check more outcomes
     
-      @tag3e
+      @tag3
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
